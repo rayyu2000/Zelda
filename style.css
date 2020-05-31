@@ -1,0 +1,41 @@
+#navbar-sticky {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 16;
+}
+
+#navbar-sticky a {
+    color: #DDD;
+}
+
+#navbar-sticky .navbar-brand {
+    color: #FFF;
+}
+
+.logo {
+    width: 56px;
+    margin-right: 5px;
+}
+
+.carousel img {
+    height: 733px;
+}
+
+.roles-name {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: rgb(54, 160, 231);
+}
+
+.title {
+    font-weight: bold;
+    color: rgb(253, 101, 13);
+    text-align: center;
+    margin: 50px 0;
+}
+
+.roles-img {
+    width: 300px;
+    height: 300px;
+}
